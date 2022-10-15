@@ -32,17 +32,17 @@ I created new columns for Year, Month, and Day to get more insights during visua
 After cleaning, there were 263,341 rows and 11 columns. A new worksheet was created for the visualization and renamed Analysis.
 
 # Attributes of the Data
-Province/State: The Province/State reporting the confirmed Death or recovery case.
-Country/Region: The Country/Region reporting the confirmed Death or recovery case.
-Lat: Distance of each location from the equator.
-Long: Measurement of the east or west of the prime meridian.
-Date: The date the cases were reported.
-Confirmed: Number Confirmed of cases reported.
-Death: Number of death cases reported.
-Recovered: Number of recovered cases reported.
-Year: The year the cases were reported.
-Month: The month the cases were reported.
-Day: The Day the cases were reported.
+1. Province/State: The Province/State reporting the confirmed Death or recovery case.
+2. Country/Region: The Country/Region reporting the confirmed Death or recovery case.
+3. Lat: Distance of each location from the equator.
+4. Long: Measurement of the east or west of the prime meridian.
+5. Date: The date the cases were reported.
+6. Confirmed: Number Confirmed of cases reported.
+7. Death: Number of death cases reported.
+8. Recovered: Number of recovered cases reported.
+9. Year: The year the cases were reported.
+10. Month: The month the cases were reported.
+11. Day: The Day the cases were reported.
 
 # Analysis
 On the newly created worksheet, I did Analysis by summarizing the table using pivot tables to create the following insights:
