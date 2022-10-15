@@ -1,5 +1,5 @@
 # Covid-19 Worldwide Analysis 2020-to-2022
-The report analyzes Covid -19 cases, recoveries and deaths worldwide from January 22, 2020, to August 2, 2022.
+The report analyzes Covid -19 confirmed, recovered and death cases worldwide from January 22, 2020, to August 2, 2022.
 
 # Introduction
 Corona Virus, commonly known as Covid-19, has impacted the world badly since 2019. The virus causes illnesses that range from the common cold to even more severe respiratory-related diseases. The virus has greatly affected day-to-day life since 2020, with millions of people contracting the disease, a portion of them dying while others are recovering. There is a need for health organizations to understand the trend of the virus to take active and effective measures to protect the public. In this project, I analyzed the covid- 19 trend from January 2020 to August 2022.
