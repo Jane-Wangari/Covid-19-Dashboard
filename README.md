@@ -7,7 +7,7 @@ Corona Virus, commonly known as Covid-19, has impacted the world badly since 201
 This Analysis aims to look at the Covid-19 confirmed cases trend from January 2020 to August 2022 from the Covid-19 dataset. The trend of confirmed cases will then be compared to the Death and recovered cases within this period to help understand the state of covid-19 worldwide. The Analysis would be helpful to both international and local health organizations and practitioners to assess and come up with effective measures to control the spread of the virus.
 
 # Data Sourcing
-The data set used for this Analysis was sourced from "[GitHub]""(https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)"
+The data set used for this Analysis was sourced from [GitHub](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
 The dataset had three spreadsheets containing the confirmed number of cases, recovered number of cases, and Death cases from all countries worldwide from January 22 2020, to August 2 2022.
 
 # Data Cleaning
@@ -16,11 +16,11 @@ Tools used for data cleaning and preparation:
 2.	Power Query
 
 ## Power Query
-I loaded into Power Query for transformation through the dataset link for each of the three tables.
+I loaded the data into Power Query for transformation through the dataset links for each of the three tables.
 I renamed the first table to Confirmed, then selected (Province/State, Country/Region, Lat, and Long) columns unpivoted. The new columns were renamed Date and Confirmed.
 The Confirmed table was then duplicated and renamed as Death, and from the data source, I pasted the source link to load the death cases data.
-The Death table was then duplicated and renamed to Recoveries. Then I pasted the link to the dataset from the source data.
-The table Confirmed and Death was merged as new and renamed Consolidated data.
+I duplicated and renamed the death table to Recoveries. Then I pasted the link to the dataset from the source data to load the recoveries data.
+I then merged the table Confirmed and Death as new and renamed Consolidated data.
 I merged the Consolidated table to recoveries, and the last column was renamed as recovered.
 I removed all the steps for the change type from the confirmed and Death table.
 The merged data (Consolidated data) was then loaded into Microsoft Excel
@@ -44,7 +44,7 @@ Month: The month the cases were reported.
 Day: The Day the cases were reported.
 
 # Analysis
-On the newly created worksheet, I did Analysis by summarizing the table to get the following insights:
+On the newly created worksheet, I did Analysis by summarizing the table using pivot tables to create the following insights:
 1.	Confirmed cases by country (I filtered the top 5.)
 2.	Confirmed cases by country (I filtered the bottom 5.)
 3.	Confirmed cases and Death cases.
@@ -61,6 +61,8 @@ The following charts were used to draw the insights and merged to make a dashboa
 3.	Line chart to show cumulative cases yearly.
 4.	Bar chart to show confirmed cases by month.
 5.	A Month, Year table to show confirmed cases.
+
+[View and interact with the data and dashboard here](https://docs.google.com/spreadsheets/d/1eeQA0d4Hcf26PXXS4HdAVDwIq4ul11vi/edit?usp=sharing&ouid=117627235192123615887&rtpof=true&sd=true)
 
 # Recommendations
 •	The Ministry of Health should ensure people adhere strictly to the measures the World Health Organization put in place to prevent an upsurge in the number of confirmed cases.
