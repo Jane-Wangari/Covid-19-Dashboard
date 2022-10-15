@@ -66,6 +66,6 @@ The following charts were used to draw the insights and merged to make a dashboa
 [View and interact with the data and dashboard here](https://docs.google.com/spreadsheets/d/1eeQA0d4Hcf26PXXS4HdAVDwIq4ul11vi/edit?usp=sharing&ouid=117627235192123615887&rtpof=true&sd=true)
 
 # Recommendations
-•	 The Ministry of Health should ensure people adhere strictly to the measures the World Health Organization put in place to prevent an upsurge in the number of confirmed cases.
-•	 More people should be sensitized to be vaccinated to ensure they are prevented from Covid-19.
-•	 There should be global sensitization on the measures to be taken by citizens to ensure covid-19 prevention; regularly wash hands, use disinfectants, wash hands, and uphold coughing etiquette.
+1. The Ministry of Health should ensure people adhere strictly to the measures the World Health Organization put in place to prevent an upsurge in the number of confirmed cases.
+2. More people should be sensitized to be vaccinated to ensure they are prevented from Covid-19.
+3. There should be global sensitization on the measures to be taken by citizens to ensure covid-19 prevention; regularly wash hands, use disinfectants, wash hands, and uphold coughing etiquette.
