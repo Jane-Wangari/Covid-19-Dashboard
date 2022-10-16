@@ -21,13 +21,18 @@ Tools used for data cleaning and preparation:
 
 ## Power Query
 I loaded the data into Power Query for transformation through the dataset links for each of the three tables.
+
 I renamed the first table to Confirmed, then selected (Province/State, Country/Region, Lat, and Long) columns unpivoted. The new columns were renamed Date and Confirmed.
+
 The Confirmed table was then duplicated and renamed as Death, and from the data source, I pasted the source link to load the death cases data.
+
 I duplicated and renamed the death table to Recoveries. Then I pasted the link to the dataset from the source data to load the recoveries data.
+
 I then merged the table Confirmed and Death as new and renamed Consolidated data.
+
 I merged the Consolidated table to recoveries, and the last column was renamed as recovered.
-I removed all the steps for the change type from the confirmed and Death table.
-The merged data (Consolidated data) was then loaded into Microsoft Excel
+
+I removed all the steps for the change type from the confirmed and Death table. The merged data (Consolidated data) was then loaded into Microsoft Excel
 
 ## Microsoft Excel
 In MS Excel, I checked the data for misspellings, duplicates and Null values.
