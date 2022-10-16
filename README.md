@@ -1,4 +1,7 @@
 # Covid-19 Worldwide Analysis 2020-to-2022
+
+![Screenshot 2022-10-01 162632](https://user-images.githubusercontent.com/110452335/196047773-d30be955-dde2-430c-a65a-39dee1a1d9b1.png)![Screenshot 2022-10-16 195621](https://user-images.githubusercontent.com/110452335/196048159-52372270-0308-40d7-a3d2-65941d2c09f2.png)![Screenshot 2022-10-16 195308](https://user-images.githubusercontent.com/110452335/196048172-2cfe2e3a-b1cb-4402-88b0-6f8dfdd59c2b.png)
+
 The report analyzes Covid -19 confirmed, recovered and death cases worldwide from January 22, 2020, to August 2, 2022.
 
 # Introduction
